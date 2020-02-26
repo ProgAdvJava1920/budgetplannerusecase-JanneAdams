@@ -1,7 +1,9 @@
-package be.pxl.nick.util;
+package be.pxl.student.util;
 
-import be.pxl.nick.entity.Account;
-import be.pxl.nick.entity.Payment;
+import be.pxl.student.entity.Account;
+import be.pxl.student.entity.Payment;
+import be.pxl.student.entity.Account;
+import be.pxl.student.entity.Payment;
 
 import java.io.BufferedReader;
 import java.io.IOException;

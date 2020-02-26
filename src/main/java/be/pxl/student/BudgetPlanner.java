@@ -1,7 +1,9 @@
-package be.pxl.nick;
+package be.pxl.student;
 
-import be.pxl.nick.entity.Account;
-import be.pxl.nick.util.BudgetPlannerImporter;
+import be.pxl.student.entity.Account;
+import be.pxl.student.util.BudgetPlannerImporter;
+import be.pxl.student.entity.Account;
+import be.pxl.student.util.BudgetPlannerImporter;
 
 import java.util.logging.Logger;
 
