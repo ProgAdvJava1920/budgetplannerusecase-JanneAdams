@@ -12,5 +12,5 @@ public class AccountTests {
         Account testAccount = new Account();
         assertEquals(true, testAccount instanceof Account);
     }
-    
+
 }
