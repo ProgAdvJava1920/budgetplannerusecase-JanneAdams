@@ -132,11 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1270" />
-    <option name="width" value="1301" />
-    <option name="height" value="1550" />
-  </component>
+  <component name="ProjectId" id="1Yz12INhC7X9KK5qCRWtBj0H772" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -239,6 +235,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582723691265" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
