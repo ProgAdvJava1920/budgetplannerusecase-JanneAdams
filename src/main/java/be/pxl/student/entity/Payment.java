@@ -1,22 +1,32 @@
 package be.pxl.student.entity;
 
-import java.time.LocalDate;
+import java.time.Instant;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class Payment {
 
+    private int id;
     private LocalDateTime date;
     private float amount;
     private String currency;
     private String detail;
+    private int accountId;
+    private int counterAccountId;
+    private int labelId;
 
-    public Payment(LocalDateTime date, float amount, String currency, String detail) {
+    public Payment(LocalDateTime date, float amount, String currency, String detail, int accountId, int counterAccountId, int labelId) {
         this.date = date;
         this.amount = amount;
         this.currency = currency;
         this.detail = detail;
+        this.accountId = accountId;
+        this.counterAccountId = counterAccountId;
+        this.labelId = labelId;
     }
+
+    public int getId(){ return id; }
+
+    public void setId(int id) { this.id = id; }
 
     public LocalDateTime getDate() {
         return date;
@@ -50,6 +60,18 @@ public class Payment {
         this.detail = detail;
     }
 
+    public int getAccountId() { return accountId; }
+
+    public void setAccountId(int accountId) { this.accountId = accountId; }
+
+    public int getCounterAccountId() { return counterAccountId; }
+
+    public void setCounterAccountId(int counterAccountId) { this.counterAccountId = counterAccountId; }
+
+    public int getLabelId() { return labelId; }
+
+    public void setLabelId(int labelId) { this.labelId = labelId; }
+
     @Override
     public String toString() {
         return "{" +
@@ -59,4 +81,6 @@ public class Payment {
                 ", detail='" + detail + '\'' +
                 '}';
     }
+
+
 }

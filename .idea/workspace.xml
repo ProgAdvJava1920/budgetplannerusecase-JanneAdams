@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a37b1ed-1564-41d6-b2c5-1aa78636e697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/AccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/PaymentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetPlanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetPlanner.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/BudgetPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/BudgetPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/pxl/student/BudgetPlannerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/pxl/student/BudgetPlannerTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/pxl/student/entity/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/pxl/student/entity/AccountTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/pxl/student/BudgetPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/pxl/student/BudgetPlanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/pxl/student/entity/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/pxl/student/entity/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/AccountDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/AccountDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/PaymentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/PaymentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Payment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +38,20 @@
         <item name="budgetplanner@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="budgetplanner: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="budgetplanner@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="budgetplanner: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="account: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="budgetplanner@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="budgetplanner: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="payment: table" type="dbc44a63:MariaImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -146,6 +149,10 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="446" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583333298297" />
+    <state x="867" y="115" key="CommitChangelistDialog2" timestamp="1583933361465">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="867" y="115" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1583933361465" />
     <state x="806" y="275" key="FileChooserDialogImpl" timestamp="1583331685081">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
@@ -166,6 +173,10 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state width="1342" height="262" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583335080027" />
+    <state x="769" y="175" key="Maven.ArtifactSearchDialog" timestamp="1583932757716">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="769" y="175" key="Maven.ArtifactSearchDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583932757716" />
     <state x="715" y="167" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583334785417">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
@@ -174,6 +185,10 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="906" y="269" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583330135484" />
+    <state x="986" y="150" width="588" height="732" key="find.popup" timestamp="1583933370987">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="986" y="150" width="588" height="732" key="find.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1583933370987" />
   </component>
   <component name="masterDetails">
     <states>
