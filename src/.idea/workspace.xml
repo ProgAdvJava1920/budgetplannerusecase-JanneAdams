@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a8a82de-79f1-4c12-a352-8cf1d13021d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/be/pxl/student/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/be/pxl/student/dao/PaymentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BudgetPlanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BudgetPlanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/be/pxl/student/BudgetPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/be/pxl/student/BudgetPlanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/be/pxl/student/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/be/pxl/student/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/be/pxl/student/BudgetPlannerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/be/pxl/student/BudgetPlannerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/be/pxl/student/entity/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/be/pxl/student/entity/AccountTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/be/pxl/student/BudgetPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/be/pxl/student/BudgetPlanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/be/pxl/student/entity/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/be/pxl/student/entity/Account.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Yz25HC4xvup0ID6oSz9jaMXqwj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a8a82de-79f1-4c12-a352-8cf1d13021d1" name="Default Changelist" comment="" />
+      <created>1583930918848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583930918848</updated>
+      <workItem from="1583930925740" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

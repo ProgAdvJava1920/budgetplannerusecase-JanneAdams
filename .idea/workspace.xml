@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a37b1ed-1564-41d6-b2c5-1aa78636e697" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/AccountDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/dao/PaymentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BudgetPlanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BudgetPlanner.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/BudgetPlanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/BudgetPlanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/pxl/student/entity/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/pxl/student/BudgetPlannerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/pxl/student/BudgetPlannerTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/be/pxl/student/entity/AccountTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/be/pxl/student/entity/AccountTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/pxl/student/BudgetPlanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/pxl/student/BudgetPlanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/pxl/student/entity/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/pxl/student/entity/Account.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,17 +123,34 @@
       <option name="presentableId" value="Default" />
       <updated>1582721732606</updated>
       <workItem from="1583327672840" duration="7239000" />
+      <workItem from="1583930969178" duration="280000" />
     </task>
+    <task id="LOCAL-00001" summary="fix first commit to last version">
+      <created>1583931044396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583931044396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix first commit to last version" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix first commit to last version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583333298297">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="446" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583333298297" />
+    <state x="856" y="115" key="CommitChangelistDialog2" timestamp="1583931039924">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="856" y="115" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1583931039924" />
     <state x="806" y="275" key="FileChooserDialogImpl" timestamp="1583331685081">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
@@ -168,6 +171,18 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state width="1342" height="262" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1583335080027" />
+    <state x="164" y="85" key="MergeDialog" timestamp="1583931088645">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="164" y="85" key="MergeDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583931088645" />
+    <state x="567" y="231" key="MultipleFileMergeDialog" timestamp="1583931090615">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="567" y="231" key="MultipleFileMergeDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1583931090615" />
+    <state x="873" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583931047676">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="873" y="253" key="Vcs.Push.Dialog.v2/0.0.1707.1027@0.0.1707.1027" timestamp="1583931047676" />
     <state x="715" y="167" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583334785417">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
