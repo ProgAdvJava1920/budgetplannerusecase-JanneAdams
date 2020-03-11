@@ -1,4 +1,4 @@
-package java.be.pxl.student.util;
+package be.pxl.student.util;
 
 import org.junit.jupiter.api.Test;
 
